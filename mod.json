@@ -1,6 +1,6 @@
 {
-  "geode": "4.0.0",
-  "gd": { "win": "2.2074", "android": "2.2074", "mac": "2.2074", "ios": "2.2074" },
+  "geode": "5.9.0",
+  "gd": { "win": "2.2081", "android": "2.2081", "mac": "2.2081", "ios": "2.2081" },
   "id": "tuusuario.framemargin",
   "name": "Frame Margin Counter",
   "version": "v1.0.0",
