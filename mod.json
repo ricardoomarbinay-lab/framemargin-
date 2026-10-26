@@ -1,0 +1,13 @@
+{
+  "geode": "4.0.0",
+  "gd": { "win": "2.2074", "android": "2.2074", "mac": "2.2074", "ios": "2.2074" },
+  "id": "tuusuario.framemargin",
+  "name": "Frame Margin Counter",
+  "version": "v1.0.0",
+  "developer": "tuusuario",
+  "description": "Cuenta margenes de frames (1-20), con sonido, circulos y reaccion en ms.",
+  "settings": {
+    "tps": { "type": "int", "name": "TPS del juego", "default": 240, "min": 60, "max": 1000 },
+    "volume": { "type": "float", "name": "Volumen", "default": 1.0, "min": 0.0, "max": 1.0 }
+  }
+}
