@@ -1,0 +1,9 @@
+{
+  "geode": "5.11.2",
+  "gd": { "win": "2.2081" },
+  "id": "tuusuario.framemargin",
+  "name": "Frame Margin Counter",
+  "version": "v1.5.0",
+  "developer": "tuusuario",
+  "description": "Cuenta margenes de frames (1-20) en aros, con sonido, circulos y reaccion en ms. Menu por categorias en la pausa (boton FM)."
+}
